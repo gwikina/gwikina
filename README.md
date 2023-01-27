@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **renforcement learning**
 
-- 👨‍💻 All of my projects are available at [https://gwikina.github.io/GidDesigns/](https://gwikina.github.io/GidDesigns/)
+- 👨‍💻 All of my projects are available at [https://gwikina.github.io/gidDesigns/](https://gwikina.github.io/GidDesigns/)
 
 - 💬 Ask me about **NSBE**
 
