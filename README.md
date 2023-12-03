@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gideonwikina@gmail.com**
 
-- 📄 Take a look at [Gideon's resume](https://drive.google.com/file/d/17_zqyBmtexW-fe8WJznqt14I4u3kCdIm/view?usp=sharing)
+- 📄 Take a look at [Gideon's resume](https://drive.google.com/file/d/1nvjB1JVJ4m0AyDbq2iX2EW9J-tgB8uiW/view?usp=sharing)
 
 - ⚡ Fun fact **I am Nigerian-American 🇳🇬**
 
